@@ -1,7 +1,7 @@
 {
-    "name": "flarum/english",
+    "name": "flarum/portuguese",
     "type": "flarum-extension",
-    "description": "English language pack.",
+    "description": "Portuguese language pack.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
@@ -9,7 +9,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "English",
+            "title": "Portuguse",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
@@ -18,8 +18,8 @@
             }
         },
         "flarum-locale": {
-            "code": "en",
-            "title": "English"
+            "code": "pt",
+            "title": "Portuguese"
         }
     }
 }
